@@ -1,4 +1,3 @@
-#importing required dependencies
 import tweepy
 from textblob import TextBlob 
 
